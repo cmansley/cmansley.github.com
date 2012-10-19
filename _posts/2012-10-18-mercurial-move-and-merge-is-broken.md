@@ -3,6 +3,8 @@ layout: post
 title: Mercurial Move and Merge is Broken
 ---
 
+<p class="meta">{{ post.date | date_to_long_string }}</p>
+
 {% highlight bash %}
 ~/hgtest$ mkdir a
 ~/hgtest$ hg init a
