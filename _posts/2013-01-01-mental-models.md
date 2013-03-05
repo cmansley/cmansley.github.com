@@ -7,7 +7,7 @@ Isaac Asimov has a brilliant treatise on how science moves forward and
 gets things wrong at the same time, which you can and should read
 [here][1] (or [here][2]). Go read it, I'll wait.
 
-This disucssion resonated with me on several levels. In computer
+This discussion resonated with me on several levels. In computer
 science, we heavily rely on abstractions to make computations
 possible. Often, we develop mental models for how a particlar
 situation will unravel in the underlying abstractions. So, the
