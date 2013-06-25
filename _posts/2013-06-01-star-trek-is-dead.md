@@ -64,7 +64,7 @@ wasn't an actual bomb_.
 I am doing a fairly clumsy job of articulating my main point: Star
 Trek was designed to be the ideal that society strove toward. Much
 like Dr. Who is "the triumph of intellect and romance over brute force
-and cynicism" (see Craig Ferguson's Dr. Who cold open [2]), Star Trek
+and cynicism" (see Craig Ferguson's Dr. Who [cold open][2]), Star Trek
 worked toward a utopian future based on fairness and equality. Often
 people will reference the first interracial kiss on the original
 series as evidence of this fact. While even Star Trek was flawed in
