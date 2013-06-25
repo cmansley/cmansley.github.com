@@ -38,9 +38,9 @@ message.
 The needless repetition was on display throughout the entire
 film. Everything from a replication of the famous Spock death scene
 from Star Trek 2 to the famous Kahn scream. I could understand the use
-of Leonard Nemoy in the first reboot, but now the franchise has proven
+of Leonard Nimoy in the first reboot, but now the franchise has proven
 that it can make money. This opens up lots of really interesting plot
-lines and plot devices. The appearence of the Klingons was just one
+lines and plot devices. The appearance of the Klingons was just one
 direction an entirely new movie could have gone. But, instead the
 writers underestimated the audience's ability to process new bad guys
 and new ideas. They instead kept leaning over to the audience and
@@ -56,7 +56,7 @@ about beauty. Since I am a boy, I will often put my foot in my mouth
 regarding gender equality. But, even I was watching this movie with
 skepticism, as the newest female on the cast had to disrobe randomly
 for one shot. It did not seem to push one plot point forward except
-maybe the possible love intrest from Kirk. It did nothing to develop
+maybe the possible love interest from Kirk. It did nothing to develop
 the character at all. And the only intellectual development of the
 character was a mention of her Ph.D. and her defusing a bomb _that
 wasn't an actual bomb_. 
@@ -76,8 +76,8 @@ questions. Some of them did not even attempt to hide these quandaries
 behind action packed sub-plots.
 
 Unfortunately, the new franchise is not even attempting to live up to
-the ideals set foward by the series. It is giving us more of the
-same. Females who are only as good as their attractivenss, humans only
+the ideals set forward by the series. It is giving us more of the
+same. Females who are only as good as their attractiveness, humans only
 as good as their flaws and reason always succumbing to emotion. Watch
 out for the next Trek movie directed by Michael Bay.
 
